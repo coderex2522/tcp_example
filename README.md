@@ -10,6 +10,9 @@ Gengar has achieved following functions:
 
  * **Remote Read/Write**: When a client allocates NVM or DRAM resources from a remote server, it can directly access remote memory resources through the dhmp_read and dhmp_write API interface. Gengar implements remote data access with one-sided RDMA Read/Write Verbs.
 
+The Web Image of Gengar Servers Memory Usage 
+------------
+![image](https://github.com/coderex2522/tcp_example/images/gengar.jpg)
 
 Gengar WebUI Setup, Compiling, Configuration and How to use
 ------------
